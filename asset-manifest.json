@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/movie_trailer_searcher/static/css/main.101a6eaf.css",
+    "main.js": "/movie_trailer_searcher/static/js/main.9b9fffbb.js",
+    "index.html": "/movie_trailer_searcher/index.html",
+    "main.101a6eaf.css.map": "/movie_trailer_searcher/static/css/main.101a6eaf.css.map",
+    "main.9b9fffbb.js.map": "/movie_trailer_searcher/static/js/main.9b9fffbb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.101a6eaf.css",
+    "static/js/main.9b9fffbb.js"
+  ]
+}
